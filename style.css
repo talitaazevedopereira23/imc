@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(220, 244, 170);
+}
+
+header{
+    background-color: rgba(198, 225, 124, 0.303);
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+     
+}
+header h1{
+    font-size: 45px;
+}
+
+nav ul li  {
+    justify-content: center;
+    display: inline;
+    margin: 50px;
+}
